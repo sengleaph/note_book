@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951129598931",
+    "project_id": "login-firebase-java-82447",
+    "storage_bucket": "login-firebase-java-82447.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951129598931:android:7453528821af9edad5dd26",
+        "android_client_info": {
+          "package_name": "com.sifu.mynotebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOLVwovJWbXBNNTbtim-TSnR7z0TW9Y_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
